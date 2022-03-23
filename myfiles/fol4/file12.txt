@@ -1,0 +1,23 @@
+mall role (if any role) in the regulation of economic activity between two transacting parties. A key component of Austrian economics is the principle of sound money. As Ludwig Von Mises, one of the most prominent 20th century Austrian economists, stated, "Ideologically it (sound money) belongs in the same class with political constitutions and bills of rights." Austrian economists assert that sound money prevents government actors from debasing the currency, disrupting the savings rate of the population and artificially distorting the economic choices of individual actors.
+
+Other schools and approaches
+Main article: Schools of economics
+Other well-known schools or trends of thought referring to a particular style of economics practised at and disseminated from well-defined groups of academicians that have become known worldwide, include the Freiburg School, the School of Lausanne, post-Keynesian economics and the Stockholm school. Contemporary mainstream economics is sometimes separated[by whom?] into the Saltwater approach of those universities along the Eastern and Western coasts of the US, and the Freshwater, or Chicago-school approach.[citation needed]
+
+Within macroeconomics there is, in general order of their historical appearance in the literature; classical economics, neoclassical economics, Keynesian economics, the neoclassical synthesis, monetarism, new classical economics, New Keynesian economics and the new neoclassical synthesis. In general, alternative developments include ecological economics, constitutional economics, institutional economics, evolutionary economics, dependency theory, structuralist economics, world systems theory, econophysics, econodynamics, feminist economics and biophysical economics.
+
+Methodology
+Theoretical research
+Main articles: Microeconomics, Macroeconomics, and Mathematical economics
+"Economic theory" redirects here. For the publication, see Economic Theory (journal).
+Mainstream economic theory relies upon a priori quantitative economic models, which employ a variety of concepts. Theory typically proceeds with an assumption of ceteris paribus, which means holding constant explanatory variables other than the one under consideration. When creating theories, the objective is to find ones which are at least as simple in information requirements, more precise in predictions, and more fruitful in generating additional research than prior theories. While neoclassical economic theory constitutes both the dominant or orthodox theoretical as well as methodological framework, economic theory can also take the form of other schools of thought such as in heterodox economic theories.
+
+In microeconomics, principal concepts include supply and demand, marginalism, rational choice theory, opportunity cost, budget constraints, utility, and the theory of the firm. Early macroeconomic models focused on modelling the relationships between aggregate variables, but as the relationships appeared to change over time macroeconomists, including new Keynesians, reformulated their models in microfoundations.
+
+The aforementioned microeconomic concepts play a major part in macroeconomic models – for instance, in monetary theory, the quantity theory of money predicts that increases in the growth rate of the money supply increase inflation, and inflation is assumed to be influenced by rational expectations. In development economics, slower growth in developed nations has been sometimes predicted because of the declining marginal returns of investment and capital, and this has been observed in the Four Asian Tigers. Sometimes an economic hypothesis is only qualitative, not quantitative.
+
+Expositions of economic reasoning often use two-dimensional graphs to illustrate theoretical relationships. At a higher level of generality, mathematical economics is the application of mathematical methods to represent theories and analyze problems in economics. Paul Samuelson's treatise Foundations of Economic Analysis (1947) exemplifies the method, particularly as to maximizing behavioral relations of agents reaching equilibrium. The book focused on examining the class of statements called operationally meaningful theorems in economics, which are theorems that can conceivably be refuted by empirical data.
+
+Empirical research
+Main articles: Econometrics and Experimental economics
+Economic theories are frequently tested empirically, largely through the use of econometrics using economic data. The controlled experiments common to the physical sciences are difficult and uncommon in economics, and instead broad data is observationally studied; this type of testing is typically r

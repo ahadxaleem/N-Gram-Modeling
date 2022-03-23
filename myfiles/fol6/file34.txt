@@ -1,0 +1,8 @@
+ork to overcome them (where possible) to enhance communication effectiveness. Steven Golen’s (1990) research into communication barriers has revealed their myriad sources and the challenges communicators face in overcoming them.
+
+Some barriers are easier to overcome. Physical noise, for example, can be overcome by isolation or simple muting. However, the intrapersonal barrier of defensiveness is more challenging in calling for one’s self-awareness and empathy. An organizational barrier like the serial transmission effect (the tendency for messages to change in passing through an organization’s levels) calls for objective message management skills.
+
+The goal of a message is to transmit information, knowledge the receiver does not already know. Shannon noted that the entropy rate, the amount of information the sender wishes to transmit, cannot exceed the channel capacity without creating uncorrectable transmission errors. Keeping the sender’s entropy rate below channel capacity greatly reduces errors and enhances information transfer and helps combat communication barriers. Redundancy is another useful element in communication.
+
+REDUNDANCY
+Communication systems naturally utilize redundancy to help combat problems with communication barriers and perceptual differences. Redundancy, predictability built into the message to help insure comprehension, backs up the message. While redundancy can seem to be mechanical, senders use it naturally without even thinking. It derives largely from repetition, exemplif

@@ -1,0 +1,26 @@
+vestment and deployment of assets and liabilities over "space and time"; i.e., it is about performing valuation and asset allocation today, based on the risk and uncertainty of future outcomes while appropriately incorporating the time value of money. Determining the present value of these future values, "discounting", must be at the risk-appropriate discount rate, in turn, a major focus of finance-theory. Since the debate as to whether finance is an art or a science is still open, there have been recent efforts to organize a list of unsolved problems in finance.
+
+Managerial finance
+
+Decision trees, a more sophisticated valuation-approach, sometimes applied to corporate "project" valuations (and a standard  in business school curricula); various scenarios are considered, and their discounted cash flows are probability weighted.
+Main article: Managerial finance
+Managerial finance is the branch of management that concerns itself with the managerial application of finance techniques and theory, emphasizing the financial aspects of managerial decisions; the assessment is per the managerial perspectives of planning, directing, and controlling. The techniques addressed are drawn in the main from managerial accounting and corporate finance: the former allow management to better understand, and hence act on, financial information relating to profitability and performance; the latter, as above, are about optimizing the overall financial structure, including its impact on working capital. The implementation of these techniques - i.e. financial management - is described above. Academics working in this area are typically based in business school finance departments, in accounting, or in management science.
+
+Financial economics
+
+The "efficient frontier", a prototypical concept in portfolio optimization. Introduced in 1952, it remains "a mainstay of investing and finance" 
+
+Modigliani–Miller theorem, a foundational element of finance theory, introduced in 1958; it forms the basis for modern thinking on capital structure. Even if leverage (D/E) increases, the WACC (k0) stays constant.
+Main article: Financial economics
+Financial economics  is the branch of economics that studies the interrelation of financial variables, such as prices, interest rates and shares, as opposed to real economic variables, i.e. goods and services. It thus centers on pricing, decision making, and risk management in the financial markets,   and produces many of the commonly employed financial models. (Financial econometrics is the branch of financial economics that uses econometric techniques to parameterize the relationships suggested.)
+
+The discipline has two main areas of focus:  asset pricing and (theoretical) corporate finance; the first being the perspective of providers of capital, i.e. investors, and the second of users of capital. Respectively:
+
+Asset pricing theory develops the models used in determining the risk-appropriate discount rate, and in pricing derivatives. The analysis essentially explores how rational investors would apply risk and return to the problem of investment under uncertainty. The twin assumptions of rationality and market efficiency lead to modern portfolio theory (the CAPM), and to the Black–Scholes theory for option valuation. At more advanced levels - and often in response to financial crises - the study then extends these "Neoclassical" models to incorporate phenomena where their assumptions do not hold, or to more general settings. Asset pricing theory also includes the portfolio- and investment theory applied in portfolio management.
+Much of corporate finance theory, by contrast, considers investment under "certainty" (Fisher separation theorem, "theory of investment value", Modigliani–Miller theorem). Here theory and methods are developed for the decisioning about funding, dividends, and capital structure discussed above. A recent development is to incorporate uncertainty and contingency - and thus various elements of asset pricing - into these decisions, employing for example real options analysis.
+Financial mathematics
+Main article: Financial mathematics
+See also: Quantitative analysis (finance) and Financial modeling § Quantitative finance
+The Black–Scholes formula for the value of a call option. Although lately its use is considered naive, it has underpinned the development of derivatives-theory, and financial mathematics more generally, since its introduction in 1973.
+
+"Trees" are widely applied in mathematical finance; here used in calculating an OAS. Other common pricing-methods are simulation and PDEs. These are used for settings beyond those envisaged by Black-

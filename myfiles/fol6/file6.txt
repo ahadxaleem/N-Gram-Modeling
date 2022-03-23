@@ -1,0 +1,21 @@
+per, papyrus, clay, wax, and other media with commonly shared writing systems, leading to adaptable alphabets. Communication became mobile.
+The final stage is characterized by the transfer of information through controlled waves of electromagnetic radiation (i.e., radio, microwave, infrared) and other electronic signals.
+Communication is thus a process by which meaning is assigned and conveyed in an attempt to create shared understanding. Gregory Bateson called it "the replication of tautologies in the universe. This process, which requires a vast repertoire of skills in interpersonal processing, listening, observing, speaking, questioning, analyzing, gestures, and evaluating enables collaboration and cooperation.[full citation needed]
+
+Communication models
+Main article: Models of communication
+
+Shannon and Weaver Model of Communication
+
+Communication major dimensions scheme
+
+Interactional Model of Communication
+
+Berlo's Sender-Message-Channel-Receiver Model of Communication
+
+Transactional model of communication
+
+Communication code scheme
+
+Linear Communication Model
+The first major model for communication was introduced by Claude Shannon and Warren Weaver for Bell Laboratories in 1949 The original model was designed to mirror the functioning of radio and telephone technologies. Their initial model consisted of three primary parts: sender, channel, and receiver. The sender was the part of a telephone a person spoke into, the channel was the telephone itself, and the receiver was the part of the phone 

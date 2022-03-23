@@ -1,0 +1,29 @@
+h thumma al bai' and Ijarah wa-iqtina
+Ijarah thumma al bai' (hire purchase) and Ijarah wa-iqtina ("lease and ownership") involve the leasing/renting/hiring of a good, paid in installments and ending with its purchase (or option to purchase) by/for the customer. Both involve two contracts – a lease and a transfer of ownership of the asset or the property – that should be recorded in separate documents.
+
+The two modes differ in that in Ijarah wa-iqtina (or ijara muntahia bittamleek) sale/ownership transfer is "an option given to the lessee" and cannot be a precondition. In ijara thumma bay' sale is part of the contract.
+
+ijara mawsoofa bi al dhimma
+In a "forward ijarah" or ijara mawsoofa bi al dhimma Islamic contract, the service or benefit being leased is defined, rather than the particular unit providing that service/benefit. In contemporary Islamic finance, it is used to finance construction (of a home, office, factory, etc.) combined with a Istisna contract. The party begins leasing the asset after "taking delivery" of it.
+
+Ijarah challenges
+Among the complaints made against ijara are that in practice some rules protecting the customer are overlooked, that its rules provide weaker legal standing and consumer protection and less flexibility than conventional mortgage loan or car finance, as well as higher costs.
+
+Tawarruq
+Further information: Murabaha § Bay.27_al-Tawarruq
+A Tawarruq (literally "turns into silver", or "monetization") contract/product where the client/customer can raise cash to be repaid later by buying and selling some readily saleable asset. An example of this would be a customer wishing to borrow $1000 in cash having their bank buy $1,100 worth of a commodity such as iron from a supplier, buying the iron from the bank on credit with 12 months to pay the $1100 back, immediately selling the metal back to the bank for $1000 cash to be paid on the spot. The bank resells the iron to the supplier. (This would be the equivalent of borrowing $1000 for a year at an interest rate of 11 per cent.)
+
+Like Bai' al inah mentioned above, the greater complexity of this transaction means more fees and higher costs than a conventional bank loan, but (in theory) compliance with shariah law because of the tangible assets that underlie the transactions . However, critics complain that "billions of dollars" of putative commodity-based tawarruq transactions have evaded the required commodity trades; and Islamic scholars both contemporary[Note 19] and classical have forbidden the practice. Nonetheless, as of 2012 Islamic banks using Tawarruq include the United Arab Bank, QNB Al Islamic, Standard Chartered of United Arab Emirates, and Bank Muamalat Malaysia.
+
+Charitable lending
+Qardh-ul Hasan
+Taqi Usmani insists that "role of loans" (as opposed to investment or finance) in a truly Islamic society is "very limited", and that Shariah law permits loans not as an ordinary occurrence, "but only in cases of dire need". A shariah-compliant loan is known as Qardh-ul Hasan, (also Qard Hasan, literally: "benevolent loan" or "beneficence loan"). It is often described as an interest-free loan extended to needy people. Such loans are often made by social service agencies, or by a firm as a benefit to its employees, rather than by Islamic banks. They are analogous to the microcredit of conventional finance, when it does not provide for an interest.
+
+Quoting the Islamic prophet Muhammad, some sources insist that lenders may not gain "any advantage or benefits" from the loan, let alone interest. However, some Islamic banks offer products called qardh-ul hasan which charge lenders a management fee, and others have savings account products called qardh-ul hasan, (the "loan" being a deposit to a bank account) where the debtor (the bank) may pay an extra amount beyond the principal amount of the loan (known as a hibah, literally gift) if the extra is not an obligation of the account/loan agreement.
+
+Contracts of safety, security, service
+These contracts are intended to help individual and business customers keep their funds safe.
+
+Hawala
+Further information: Hawala
+Hawala (also Hiwala, Hewala, or Hundi; literally "transfer" or "trust") is a widely used, informal "value transfer system" for transferring funds from one geographical area to another, based not on wire transfers but on a huge network of money brokers (known as "Hawaladars") throughout the Muslim world. Hawala was not started as an halal alternative to conventional banking transfers, since electronic wire transfers have not been found in violation of sharia. However, hawala has the advantage of being available in places wire transfer 

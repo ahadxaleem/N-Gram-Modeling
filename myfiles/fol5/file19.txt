@@ -1,0 +1,36 @@
+ force growth.
+
+Growth
+Main article: Economic growth
+Growth economics studies factors that explain economic growth – the increase in output per capita of a country over a long period of time. The same factors are used to explain differences in the level of output per capita between countries, in particular why some countries grow faster than others, and whether countries converge at the same rates of growth.
+
+Much-studied factors include the rate of investment, population growth, and technological change. These are represented in theoretical and empirical forms (as in the neoclassical and endogenous growth models) and in growth accounting.
+
+Business cycle
+Main article: Business cycle
+See also: Circular flow of income, Aggregate supply, Aggregate demand, and Unemployment
+
+A basic illustration of economic/business cycles
+The economics of a depression were the spur for the creation of "macroeconomics" as a separate discipline. During the Great Depression of the 1930s, John Maynard Keynes authored a book entitled The General Theory of Employment, Interest and Money outlining the key theories of Keynesian economics. Keynes contended that aggregate demand for goods might be insufficient during economic downturns, leading to unnecessarily high unemployment and losses of potential output.
+
+He therefore advocated active policy responses by the public sector, including monetary policy actions by the central bank and fiscal policy actions by the government to stabilize output over the business cycle. Thus, a central conclusion of Keynesian economics is that, in some situations, no strong automatic mechanism moves output and employment towards full employment levels. John Hicks' IS/LM model has been the most influential interpretation of The General Theory.
+
+Over the years, understanding of the business cycle has branched into various research programmes, mostly related to or distinct from Keynesianism. The neoclassical synthesis refers to the reconciliation of Keynesian economics with neoclassical economics, stating that Keynesianism is correct in the short run but qualified by neoclassical-like considerations in the intermediate and long run.
+
+New classical macroeconomics, as distinct from the Keynesian view of the business cycle, posits market clearing with imperfect information. It includes Friedman's permanent income hypothesis on consumption and "rational expectations" theory, led by Robert Lucas, and real business cycle theory.
+
+In contrast, the new Keynesian approach retains the rational expectations assumption, however it assumes a variety of market failures. In particular, New Keynesians assume prices and wages are "sticky", which means they do not adjust instantaneously to changes in economic conditions.
+
+Thus, the new classicals assume that prices and wages adjust automatically to attain full employment, whereas the new Keynesians see full employment as being automatically achieved only in the long run, and hence government and central-bank policies are needed because the "long run" may be very long.
+
+Unemployment
+Main article: Unemployment
+
+US unemployment rate, 1990–2021
+The amount of unemployment in an economy is measured by the unemployment rate, the percentage of workers without jobs in the labour force. The labour force only includes workers actively looking for jobs. People who are retired, pursuing education, or discouraged from seeking work by a lack of job prospects are excluded from the labour force. Unemployment can be generally broken down into several types that are related to different causes.
+
+Classical models of unemployment occurs when wages are too high for employers to be willing to hire more workers. Consistent with classical unemployment, frictional unemployment occurs when appropriate job vacancies exist for a worker, but the length of time needed to search for and find the job leads to a period of unemployment.
+
+Structural unemployment covers a variety of possible causes of unemployment including a mismatch between workers' skills and the skills required for open jobs. Large amounts of structural unemployment can occur when an economy is transitioning industries and workers find their previous set of skills are no longer in demand. Structural unemployment is similar to frictional unemployment since both reflect the problem of matching workers with job vacancies, but structural unemployment covers the time needed to acquire new skills not just the short term search process.
+
+While some types of unemployment may occur regardless of the condition of the economy, cyclical unemployment occurs when growth stagnates. Okun's law represents the empirical

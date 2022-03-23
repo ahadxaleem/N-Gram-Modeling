@@ -1,0 +1,12 @@
+ons about projects, policies and programs, particularly about their effectiveness. In both the public and private sectors, stakeholders often want to know the extent which the programs they are funding, implementing, voting for, receiving, or objecting to are producing the intended effects. While program evaluation first focuses on effectiveness, important considerations often include how much the program costs per participant, how the program could be improved, whether the program is worthwhile, whether there are better alternatives, if there are unintended outcomes, and whether the program goals are appropriate and useful.
+
+Contemporary issues in methodology and practice
+Metascience
+Metascience involves the application of scientific methodology to study science itself. The field of metascience has revealed problems in psychological research. Some psychological research has suffered from bias, problematic reproducibility, and misuse of statistics. These findings have led to calls for reform from within and from outside the scientific community.
+
+Confirmation bias
+In 1959, statistician Theodore Sterling examined the results of psychological studies and discovered that 97% of them supported their initial hypotheses, implying possible publication bias. Similarly, Fanelli (2010) found that 91.5% of psychiatry/psychology studies confirmed the effects they were looking for, and concluded that the odds of this happening (a positive result) was around five times higher than in fields such as space science or geosciences. Fanelli argued that this is because researchers in "softer" sciences have fewer constraints to their conscious and unconscious biases.
+
+Replication
+Further information: Replication crisis § In psychology
+A replication crisis in psychology has emerged. Many notable findings in the field have not been replicated. Some researchers were even accused of publishing fraudulent results. Systematic efforts, including efforts by the Reproducibility Proje

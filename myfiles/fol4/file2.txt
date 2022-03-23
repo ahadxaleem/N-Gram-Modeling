@@ -1,0 +1,46 @@
+be reinvested in the business or returned to shareholders
+Capital structure: deciding on the mix of funding to be used - here attempting to find the optimal capital mix re debt-commitments vs cost of capital
+The latter creates the link with investment banking and securities trading, as above, in that the capital raised will generically comprise debt, i.e. corporate bonds, and equity, often listed shares. Re risk management within corporates, see below.
+
+Financial managers - i.e. as opposed to corporate financiers - focus more on the short term elements of profitability, cash flow, and "working capital management" (inventory, credit and debtors), ensuring that the firm can safely and profitably carry out its financial and operational objectives; i.e. that it: (1) can service both maturing short-term debt repayments, and scheduled long-term debt payments , and (2) has sufficient cash flow for ongoing and upcoming operational expenses. See Financial management § Role and Financial analyst § Corporate and other.
+
+Public finance
+
+President George W. Bush, speaking on the Federal Budget in 2007, here requesting additional funds from Congress
+
+2020 US Federal Revenues and Outlays
+Main article: Public finance
+Public finance describes finance as related to sovereign states, sub-national entities, and related public entities or agencies. It generally encompasses a long-term strategic perspective regarding investment decisions that affect public entities. These long-term strategic periods typically encompass five or more years. Public finance is primarily concerned with:
+
+Identification of required expenditures of a public sector entity;
+Source(s) of that entity's revenue;
+The budgeting process;
+Debt issuance, or municipal bonds, for public works projects.
+Central banks, such as the Federal Reserve System banks in the United States and the Bank of England in the United Kingdom, are strong players in public finance. They act as lenders of last resort as well as strong influences on monetary and credit conditions in the economy.
+
+Investment management
+
+Share prices listed in a Korean Newspaper
+
+"The excitement before the bubble burst" - viewing prices via ticker tape, shortly before the Wall Street Crash of 1929
+
+Modern price-ticker. This infrastructure underpins contemporary exchanges, and allows, ultimately, for individual day trading, as well as wholesale computer-executed program trading and high-frequency trading.
+Main article: Investment management
+Investment management  is the professional asset management of various securities - typically shares and bonds, but also other assets, such as real estate and commodities - in order to meet specified investment goals for the benefit of investors.
+
+As above, investors may be institutions, such as insurance companies, pension funds, corporations, charities, educational establishments, or private investors, either directly via investment contracts or, more commonly, via collective investment schemes like mutual funds, exchange-traded funds, or REITs.
+
+At the heart of investment management is asset allocation - diversifying the exposure among these asset classes, and among individual securities within each asset class - as appropriate to the client's investment policy, in turn, a function of risk profile, investment goals, and investment horizon (see Investor profile). Here:
+
+Portfolio optimization is the process of selecting the best portfolio given the client's objectives and constraints.
+Fundamental analysis is the approach typically applied in valuing and evaluating the individual securities.
+Overlaid is the portfolio manager's investment style - broadly, active vs passive , value vs growth, and small cap vs. large cap - and investment strategy. In a well-diversified portfolio, achieved investment performance will, in general, largely be a function of the asset mix selected, while the individual securities are less impactful. The specific approach or philosophy will also be significant, depending on the extent to which it is complementary with the market cycle.
+
+A quantitative fund is managed using computer-based techniques (increasingly, machine learning) instead of human judgment. The actual trading also, is typically automated via sophisticated algorithms.
+
+Risk management
+
+Crowds gathering outside the New York Stock Exchange after the Wall Street Crash of 1929.
+
+People queuing outside a Northern Rock branch in the United Kingdom to withdraw their savings during the financial crisis of 2007–2008.
+Risk management, in general, is the study of how to control risks and balance the possibility of gains; it is the process of measuring

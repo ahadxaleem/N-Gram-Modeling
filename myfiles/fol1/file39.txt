@@ -1,0 +1,11 @@
+om population data. The statistical methods research psychologists employ include the Pearson product–moment correlation coefficient, the analysis of variance, multiple linear regression, logistic regression, structural equation modeling, and hierarchical linear modeling. The measurement and operationalization of important constructs is an essential part of these research designs.
+
+Although this type of psychological research is much less abundant than quantitative research, some psychologists conduct qualitative research. This type of research can involve interviews, questionnaires, and first-hand observation. While hypothesis testing is rare, virtually impossible, in qualitative research, qualitative studies can be helpful in theory and hypothesis generation, interpreting seemingly contradictory quantitative findings, and understanding why some interventions fail and others succeed.
+
+Controlled experiments
+Main article: Experiment
+
+Flowchart of four phases (enrollment, intervention allocation, follow-up, and data analysis) of a parallel randomized trial of two groups, modified from the CONSORT 2010 Statement
+
+The experimenter (E) orders the teacher (T), the subject of the experiment, to give what the latter believes are painful electric shocks to a learner (L), who is actually an actor and confederate. The subject believes that for each wrong answer, the learner was receiving actual electric shocks, though in reality there were no such punishments. Being separated from the subject, the confederate set up a tape recorder integrated with the electro-shock generator, which played pre-recorded sounds for each shock level etc.
+A true experiment with random assignment of research participants (sometimes called subjects) to rival conditions allows researchers to make strong inferences about causal relationships. When there are large numbers of research participants, the random assignment (also called random allocation) of those participants to rival condition

@@ -1,0 +1,13 @@
+ of signals using a specific channel or medium.
+Noise sources such as natural forces and in some cases human activity (both intentional and accidental) begin influencing the quality of signals propagating from the sender to one or more receivers.
+Reception of signals and reassembling of the encoded message from a sequence of received signals.
+Decoding of the reassembled encoded message.
+Interpretation and making sense of the presumed original message.
+These elements are now understood to be substantially overlapping and recursive activities rather than steps in a sequence. For example, communicative actions can commence before a communicator formulates a conscious attempt to do so, as in the case of phatics; likewise, communicators modify their intentions and formulations of a message in response to real-time feedback (e.g., a change in facial expression). Practices of decoding and interpretation are culturally enacted, not just by individuals (genre conventions, for instance, trigger anticipatory expectations for how a message is to be received), and receivers of any message operationalize their own frames of reference in interpretation.
+
+The scientific study of communication can be divided into:
+
+Information theory which studies the quantification, storage, and communication of information in general;
+Communication studies which concerns human communication;
+Biosemiotics which examines communication in and between living organisms in general.
+Biocommunication which exemplifies sign-mediated interac

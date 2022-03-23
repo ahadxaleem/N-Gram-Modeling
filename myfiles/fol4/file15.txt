@@ -1,0 +1,27 @@
+portunity cost. Thus, if one more Gun costs 100 units of butter, the opportunity cost of one Gun is 100 Butter. Along the PPF, scarcity implies that choosing more of one good in the aggregate entails doing with less of the other good. Still, in a market economy, movement along the curve may indicate that the choice of the increased output is anticipated to be worth the cost to the agents.
+
+By construction, each point on the curve shows productive efficiency in maximizing output for given total inputs. A point inside the curve (as at A), is feasible but represents production inefficiency (wasteful use of inputs), in that output of one or both goods could increase by moving in a northeast direction to a point on the curve. Examples cited of such inefficiency include high unemployment during a business-cycle recession or economic organization of a country that discourages full use of resources. Being on the curve might still not fully satisfy allocative efficiency (also called Pareto efficiency) if it does not produce a mix of goods that consumers prefer over other points.
+
+Much applied economics in public policy is concerned with determining how the efficiency of an economy can be improved. Recognizing the reality of scarcity and then figuring out how to organize society for the most efficient use of resources has been described as the "essence of economics", where the subject "makes its unique contribution."
+
+Specialization
+Main articles: Division of labour, Comparative advantage, and Gains from trade
+
+A map showing the main trade routes for goods within late medieval Europe
+Specialization is considered key to economic efficiency based on theoretical and empirical considerations. Different individuals or nations may have different real opportunity costs of production, say from differences in stocks of human capital per worker or capital/labour ratios. According to theory, this may give a comparative advantage in production of goods that make more intensive use of the relatively more abundant, thus relatively cheaper, input.
+
+Even if one region has an absolute advantage as to the ratio of its outputs to inputs in every type of output, it may still specialize in the output in which it has a comparative advantage and thereby gain from trading with a region that lacks any absolute advantage but has a comparative advantage in producing something else.
+
+It has been observed that a high volume of trade occurs among regions even with access to a similar technology and mix of factor inputs, including high-income countries. This has led to investigation of economies of scale and agglomeration to explain specialization in similar but differentiated product lines, to the overall benefit of respective trading parties or regions.
+
+The general theory of specialization applies to trade among individuals, farms, manufacturers, service providers, and economies. Among each of these production systems, there may be a corresponding division of labour with different work groups specializing, or correspondingly different types of capital equipment and differentiated land uses.
+
+An example that combines features above is a country that specializes in the production of high-tech knowledge products, as developed countries do, and trades with developing nations for goods produced in factories where labour is relatively cheap and plentiful, resulting in different in opportunity costs of production. More total output and utility thereby results from specializing in production and trading than if each country produced its own high-tech and low-tech products.
+
+Theory and observation set out the conditions such that market prices of outputs and productive inputs select an allocation of factor inputs by comparative advantage, so that (relatively) low-cost inputs go to producing low-cost outputs. In the process, aggregate output may increase as a by-product or by design. Such specialization of production creates opportunities for gains from trade whereby resource owners benefit from trade in the sale of one type of output for other, more highly valued goods. A measure of gains from trade is the increased income levels that trade may facilitate.
+
+Supply and demand
+Main article: Supply and demand
+A graph depicting Quantity on the X-axis and Price on the Y-axis
+The supply and demand model describes how prices vary as a result of a balance between product availability and demand. The graph depicts an increase (that is, right-shift) in demand from D1 to D2 along with the consequent increase in price and quantity required to reach a new equilibrium point on the supply curve (S).
+Prices and quantities have bee

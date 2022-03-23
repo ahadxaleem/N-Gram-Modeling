@@ -1,0 +1,31 @@
+) has been called un-Islamic because the short period of "ownership" means day traders do not truly own what they trade, and furthermore pay interest. Among the sources calling it un-Islamic include Yusuf Talal DeLorenzo, and Focus Business Services of the UAE.
+derivatives: contracts that derive their value from the performance of an underlying asset; (The "notional value" of the world's over-the-counter derivatives at the end of 2007 was $596 trillion and the gross market value of all outstanding derivatives was $14.5 trillion.) Options, futures and "other derivatives" are "generally" not used in Islamic finance "because of the prohibition against maisir", Sources stating that most derivative or some kinds of derivative are banned by Islamic scholars include Juan Sole and Andreas Jobst, P. S. Mills and J. R. Presley, Taqi Usmani, Investopedia. The most commonly used derivative are:
+forwards: customized contracts to buy or sell an asset at a specified price on a future date. unlike futures contracts forward contracts are not traded on any exchanges;
+futures: a legal agreement to buy or sell a particular commodity or financial instrument at a predetermined price at a specified time in the future;
+options: contracts offering the buyer the right, but not the obligation, to buy (call) or sell (put) a security or other financial asset at an agreed-upon price (the strike price) during a certain period of time or on a specific date (exercise date);
+swaps: contracts through which two parties exchange financial instruments to transfer risk.
+On the other hand, at least one Islamic scholar (Mohammed Hashim Kamali) finds "nothing inherently objectionable" in selling and using options, which like other kinds of trade is mubah (permissible) in fiqh, and "simply an extension of the basic liberty that the Quran has granted". And both Islamic finance practitioners and critics find benefit in at least some uses of derivatives and short selling – managing risk in times of financial trouble, improving market efficiency and employee productivity.
+
+At least some in the Islamic finance industry use derivatives and make short sales, and permissibility of this is a subject of "heated debate". Global standards for trading Islamic profit-rate and currency swap derivatives were set in 2010 with the "Hedging Master Agreement" (see below). A "Shariah-certified" short-sale had been created by some Shariah-compliant hedge funds. However both have been criticized as un-Islamic.
+
+Justification for Islamic banking
+It has been praised – or at least described positively – for
+
+turning a "theory" into a trillion dollar "reality", asserted Islam into international financial markets (according to Taqi Usmani);
+enriched the Islamic legal system by providing it with real world business questions to find shariah-compliant solutions for (Usmani);
+creating an "ethical, sustainable, environmentally- and socially-responsible" system (according to Abayomi A. Alawode);
+drawing conventional banks into the industry in search of Muslim customers (Munawar Iqbal and Philip Molyneux);[Note 13]
+drawing new customers and money into banking, rather than taking existing customers and their money away from conventional banking, (Laurent Gheeraert).
+Creating a less risky form of finance (according to Zeti Akhtar Aziz and others),
+by forbidding speculation, so that, for example, the excesses that led to the global financial crisis of 2007–2008 are avoided (according to Ibrahim Warde);
+and by use of two kinds of accounts:
+"current accounts" – where funds earn no return and (in theory) are held, not invested by the bank, so not subject to risk;
+and mudarabah accounts – where the depositors share in any losses with the bank, so diminishing the bank's risk.
+While the industry has problems and challenges, these can be explained by
+its relative youth and low position on the "learning curve" that will solved these difficulties over time; and by
+non-Islamic influences which can only be eliminated when the industry operates in a truly Islamic society and environment.
+Industry framework
+Islamic financial institutions take different forms. They may be
+
+Full-fledged Islamic financial institutions (for example Islami Bank Bangladesh Ltd, Meezan Bank in Pakistan);
+Islamic "windows" – i.e. separate, sharia-compliant units – in conventional financial institutions (for example: HSBC – HSBC Amanah, American Express Bank, ANZ Grindlays, BNP-Paribas, Chase Manhattan, UBS, Kleinwort Benson, Commercial Bank of Saudi Arabia, Ahli United Bank Kuwait, Riyad Bank); (Scholars debate compliance of this form, according to Faleel Jamaldeen, "primarily" becaus

@@ -1,0 +1,25 @@
+ a definite overall guiding objective, and the capability of making a choice. There exists an economic problem, subject to study by economic science, when a decision (choice) is made by one or more resource-controlling players to attain the best possible outcome under bounded rational conditions. In other words, resource-controlling agents maximize value subject to the constraints imposed by the information the agents have, their cognitive limitations, and the finite amount of time they have to make and execute a decision. Economic science centres on the activities of the economic agents that comprise society. They are the focus of economic analysis.
+
+An approach to understanding these processes, through the study of agent behaviour under scarcity, may go as follows:
+
+The continuous interplay (exchange or trade) done by economic actors in all markets sets the prices for all goods and services which, in turn, make the rational managing of scarce resources possible. At the same time, the decisions (choices) made by the same actors, while they are pursuing their own interest, determine the level of output (production), consumption, savings, and investment, in an economy, as well as the remuneration (distribution) paid to the owners of labour (in the form of wages), capital (in the form of profits) and land (in the form of rent). Each period, as if they were in a giant feedback system, economic players influence the pricing processes and the economy, and are in turn influenced by them until a steady state (equilibrium) of all variables involved is reached or until an external shock throws the system toward a new equilibrium point. Because of the autonomous actions of rational interacting agents, the economy is a complex adaptive system.
+
+Keynesian economics
+Main articles: Keynesian economics and Post-Keynesian economics
+John Maynard Keynes greeting Harry Dexter White, then a senior official in the U.S. Treasury Department
+John Maynard Keynes (right) was a key theorist in economics.
+Keynesian economics derives from John Maynard Keynes, in particular his book The General Theory of Employment, Interest and Money (1936), which ushered in contemporary macroeconomics as a distinct field. The book focused on determinants of national income in the short run when prices are relatively inflexible. Keynes attempted to explain in broad theoretical detail why high labour-market unemployment might not be self-correcting due to low "effective demand" and why even price flexibility and monetary policy might be unavailing. The term "revolutionary" has been applied to the book in its impact on economic analysis.
+
+Keynesian economics has two successors. Post-Keynesian economics also concentrates on macroeconomic rigidities and adjustment processes. Research on micro foundations for their models is represented as based on real-life practices rather than simple optimizing models. It is generally associated with the University of Cambridge and the work of Joan Robinson.
+
+New-Keynesian economics is also associated with developments in the Keynesian fashion. Within this group researchers tend to share with other economists the emphasis on models employing micro foundations and optimizing behaviour but with a narrower focus on standard Keynesian themes such as price and wage rigidity. These are usually made to be endogenous features of the models, rather than simply assumed as in older Keynesian-style ones.
+
+Chicago school of economics
+Main article: Chicago school of economics
+The Chicago School of economics is best known for its free market advocacy and monetarist ideas. According to Milton Friedman and monetarists, market economies are inherently stable if the money supply does not greatly expand or contract. Ben Bernanke, former Chairman of the Federal Reserve, is among the economists today generally accepting Friedman's analysis of the causes of the Great Depression.
+
+Milton Friedman effectively took many of the basic principles set forth by Adam Smith and the classical economists and modernized them. One example of this is his article in the 13 September 1970 issue of The New York Times Magazine, in which he claims that the social responsibility of business should be "to use its resources and engage in activities designed to increase its profits ... (through) open and free competition without deception or fraud."
+
+Austrian School of Economics
+Main article: Austrian school of economics
+The Austrian school emphasizes human action, property rights and the freedom to contract and transact to have a thriving and successful economy. It also emphasizes that the state should play an infinitesimally s

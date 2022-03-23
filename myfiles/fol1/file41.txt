@@ -1,0 +1,10 @@
+wever, surveys are also conducted over the phone or through e-mail. Web-based surveys are increasingly used to conveniently reach many subjects.
+
+Observational studies are commonly conducted in psychology. In cross-sectional observational studies, psychologists collect data at a single point in time. The goal of many cross-sectional studies is the assess the extent factors are correlated with each other. By contrast, in longitudinal studies psychologists collect data on the same sample at two or more points in time. Sometimes the purpose of longitudinal research is to study trends across time such as the stability of traits or age-related changes in behavior. Because some studies involve endpoints that psychologists cannot ethically study from an experimental standpoint, such as identifying the causes of depression, they conduct longitudinal studies a large group of depression-free people, periodically assessing what is happening in the individuals' lives. In this way psychologists have an opportunity to test causal hypotheses regarding conditions that commonly arise in people's lives that put them at risk for depression. Problems that affect longitudinal studies include selective attrition, the type of problem in which bias is introduced when a certain type of research participant disproportionately leaves a study.
+
+Exploratory data analysis refers to a variety of practices that researchers use to reduce a great many variables to a small number overarching factors. In Peirce's three modes of inference, exploratory data analysis corresponds to abduction. Meta-analysis is the technique research psychologists use to integrate results from many studies of the same variables and arriving at a grand average of the findings.
+
+Direct brain observation/manipulaiton
+
+An EEG recording setup
+A classic and popular tool used to relate mental and neural activity is the electroencephalogram (EEG), a technique using amplified electrodes on a person's scalp to measure vo

@@ -1,0 +1,18 @@
+where one could hear the other person. Shannon and Weaver also recognized that often there is static that interferes with one listening to a telephone conversation, which they deemed noise.
+
+In a simple model, often referred to as the transmission model or standard view of communication, information or content (e.g. a message in natural language) is sent in some form (as spoken language) from an emitter (emisor in the picture)/sender/encoder to a destination/receiver/decoder. This common conception of communication simply views communication as a means of sending and receiving information. The strengths of this model are simplicity, generality, and quantifiability. Claude Shannon and Warren Weaver structured this model based on the following elements:
+
+An information source, which produces a message.
+A transmitter, which encodes the message into signals.
+A channel, to which signals are adapted for transmission.
+A noise source, which distorts the signal while it propagates through the channel.
+A receiver, which 'decodes' (reconstructs) the message from the signal.
+A destination, where the message arrives.
+Shannon and Weaver argued that there were three levels of problems for communication within this theory.
+
+The technical problem: how accurately can the message be transmitted?
+The semantic problem: how precisely is the meaning conveyed?
+The effectiveness problem: how effectively does the received meaning affect behavior?
+Daniel Chandler critiques the transmission model by stating:
+
+It assumes communi

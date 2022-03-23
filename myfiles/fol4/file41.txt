@@ -1,0 +1,38 @@
+s "awash" with "profit rate swap" contracts, including a global standard developed by the IIFM and International Swaps and Derivatives Association. In Malaysia, the "Islamic Profit Rate Swap" (IPRS) hedging tool is popular.
+cross-currency swap: These are used by investors to "transfer currency fluctuation risk among themselves."
+Put and call options
+The Islamic finance equivalent of a conventional call option[Note 24] is known as an urbun (lit. "down payment"), the equivalent of a put option is known as a "reverse urbun". In each the seller has the right but not the obligation to either buy (in the case of a call or urbun) or sell (in the case of a put or "reverse urbun") at a pre-determined price by some point in the future. These two Islamic options also have a different name for a "premium", (called a "down-payment") and for the "strike price" ("preset price"). The options' Islamic distinctiveness has been questioned by analysts, and its use has been criticized by conservative scholars.
+
+Microfinance
+Microfinance seeks to help the poor and spur economic development by providing small loans to entrepreneurs too small and poor to interest non-microfinance banks. Its strategy meshes with the "guiding principles" or objectives of Islamic finance, and with the needs of Muslim-majority countries where a large fraction of the world's poor live,[Note 25] many of them small entrepreneurs in need of capital, and most unwilling or unable to use formal financial services.
+
+According to the Islamic Microfinance Network website (as of circa 2013), there are more than 300 Islamic microfinance institutions in 32 countries, The products used in Islamic microfinance may include some of those mentioned above – qard al hassan, musharaka, mudaraba, salam, and others.
+
+Unfortunately, a number of studies have found "very few examples" of Microfinance institutions "operating in the field of Islamic finance" and few Islamic banks "involved in microfinance". One 2012 report found that Islamic microfinance made up less than 1 per cent of the global microfinance outreach, "despite the fact that almost half of the clients of microfinance live in Muslim countries and the demand for Islamic microfinance is very strong."
+
+Emic/internal Islamic issues for compliance with Islamic goals and sharia
+Main article: Assessments, controversies, challenges in Islamic finance
+
+Bank Islam Brunei Darussalam in Brunei.
+These are the emic (from within) issues discussed within the Islamic community for the compliance of Islamic banking and finance with sharia and the desired Islamic objectives.
+
+Challenges, criticism – Industry view
+On the other hand, the industry also has challenges —"key" among them, as of 2016 (according to the State of the Global Islamic Economy Report, 2015/16 and the IMF), include:
+
+"low levels" of public awareness;
+a need for better regulation, better cooperation between Islamic and conventional financial standard-setters to deal with complexity and to "address the unique risks of the industry";
+a "scarcity of Shariah-compliant monetary policy instruments";
+"underdeveloped" safety nets and resolution frameworks such as sharia compliant deposit insurance systems and "lenders-of-last-resort";
+better Shariah compliance by regulators.
+Another challenge in Islamic banking has been exploitation of poor gullible people in the name of religion.
+
+Challenges, criticism – scholars and critics
+Critics have complained of Islamic banking and finance closely resembling the conventional sort but having "higher costs, bigger risks", – a situation that has not been remedied by "learning" over the decades. Other issues/complaints include a lack of policies to uplift small traders and the poor; the challenge of inflation, late payments, the lack of hedging of currencies and rates, or of sharia-compliant places to park short term funds for liquidity; the non-Muslim ownership of much of Islamic banking, and the concentration of what ownership is in Muslim hands.
+
+Hegemony of hand-picked highly paid Shariah experts
+Some Islamic Banking observers believe the industry suffers from handpicked, highly paid Shariah experts who have been approving financial products using ḥiyal (legal stratagem) to follow sharia law, "shunning controversial issues", and/or "rubber stamping" bank management decisions after perfunctory reviews, and that the banking practices approved by this small number of Islamic jurists have moved closer and closer to the practices of conventional non-Islamic banking.
+
+"Fatwa shopping", independence
+Journalist John Foster quotes an "investment banker based in Dubai":
+
+"We create the same type of prod

@@ -1,0 +1,8 @@
+riesen, and Raymond Birdwhistell who focused on the complex patterns nonverbal communication takes. Their research has also explored possible commonalities in meaning of nonverbal signals within and across cultures.
+
+While people engage in communication almost unconsciously, it remains a complex subject which defies simple explanations and calls for continued research. Overall, the insights into human interaction developed following social psychology research have led to numerous practical applications, especially in the business world.
+
+COMMUNICATION DEFINED
+In its simplest form, the term communication refers to the process by which one person transmits information (new knowledge) to another person (or persons). A number of communication models exist, but common elements delineated by Claude Shannon and Warren Weaver (1949) link them: a sender, a receiver, a channel, the message itself, and some effect or impact resulting from the message exchange (including feedback).
+
+Feedback, a crucial part of the communication process, represents the response to a received message (not necessarily to the message intended to be sent, but to its interpretation). While an element in the overall process, feedback’s transmission duplicates the communication process it responds to, and thus involves sending and receiving, as well as media, and it can be impacted by communication barriers. Feedback, in turn, may lead to a response. Mechanistic approaches like the classic Shannon-Weaver model are appealing in their sim

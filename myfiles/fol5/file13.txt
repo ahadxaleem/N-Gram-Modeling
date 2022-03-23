@@ -1,0 +1,26 @@
+egarded as less rigorous than controlled experimentation, and the conclusions typically more tentative. However, the field of experimental economics is growing, and increasing use is being made of natural experiments.
+
+Statistical methods such as regression analysis are common. Practitioners use such methods to estimate the size, economic significance, and statistical significance ("signal strength") of the hypothesized relation(s) and to adjust for noise from other variables. By such means, a hypothesis may gain acceptance, although in a probabilistic, rather than certain, sense. Acceptance is dependent upon the falsifiable hypothesis surviving tests. Use of commonly accepted methods need not produce a final conclusion or even a consensus on a particular question, given different tests, data sets, and prior beliefs.
+
+Criticisms based on professional standards and non-replicability of results serve as further checks against bias, errors, and over-generalization, although much economic research has been accused of being non-replicable, and prestigious journals have been accused of not facilitating replication through the provision of the code and data. Like theories, uses of test statistics are themselves open to critical analysis, although critical commentary on papers in economics in prestigious journals such as the American Economic Review has declined precipitously in the past 40 years. This has been attributed to journals' incentives to maximize citations in order to rank higher on the Social Science Citation Index (SSCI).
+
+In applied economics, input–output models employing linear programming methods are quite common. Large amounts of data are run through computer programs to analyse the impact of certain policies; IMPLAN is one well-known example.
+
+Experimental economics has promoted the use of scientifically controlled experiments. This has reduced the long-noted distinction of economics from natural sciences because it allows direct tests of what were previously taken as axioms. In some cases these have found that the axioms are not entirely correct; for example, the ultimatum game has revealed that people reject unequal offers.
+
+In behavioural economics, psychologist Daniel Kahneman won the Nobel Prize in economics in 2002 for his and Amos Tversky's empirical discovery of several cognitive biases and heuristics. Similar empirical testing occurs in neuroeconomics. Another example is the assumption of narrowly selfish preferences versus a model that tests for selfish, altruistic, and cooperative preferences. These techniques have led some to argue that economics is a "genuine science".
+
+Branches of economics
+Microeconomics
+Main articles: Microeconomics and Market (economics)
+A vegetable vendor in a marketplace.
+Economists study trade, production and consumption decisions, such as those that occur in a traditional marketplace.
+Two traders sit at computer monitors with financial information.
+Electronic trading brings together buyers and sellers through an electronic trading platform and network to create virtual market places. Pictured: São Paulo Stock Exchange, Brazil.
+Microeconomics examines how entities, forming a market structure, interact within a market to create a market system. These entities include private and public players with various classifications, typically operating under scarcity of tradable units and light government regulation.[clarification needed] The item traded may be a tangible product such as apples or a service such as repair services, legal counsel, or entertainment.
+
+In theory, in a free market the aggregates (sum of) of quantity demanded by buyers and quantity supplied by sellers may reach economic equilibrium over time in reaction to price changes; in practice, various issues may prevent equilibrium, and any equilibrium reached may not necessarily be morally equitable. For example, if the supply of healthcare services is limited by external factors, the equilibrium price may be unaffordable for many who desire it but cannot pay for it.
+
+Various market structures exist. In perfectly competitive markets, no participants are large enough to have the market power to set the price of a homogeneous product. In other words, every participant is a "price taker" as no participant influences the price of a product. In the real world, markets often experience imperfect competition.
+
+Forms include monopoly (in which there is only one seller of a good), duopoly (in which there are only two sellers of a good), oligopoly (in which there are few sellers of a good), monopolistic competition (in which there are many sellers producing highly different

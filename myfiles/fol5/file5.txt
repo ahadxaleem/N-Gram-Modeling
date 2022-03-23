@@ -1,0 +1,34 @@
+Scholes. Post crisis, even in those settings, banks use local and stochastic volatility models to incorporate the volatility surface.
+Financial mathematics  is a field of applied mathematics concerned with financial markets. As above, in terms of practice, the field is referred to as quantitative finance and / or mathematical finance, and comprises primarily the three areas discussed.
+
+Re theory, the field is largely focused on the modeling of derivatives (with much focus on interest rate- and credit risk modeling), although other important subfields include insurance mathematics and quantitative portfolio management. Relatedly, the techniques developed are applied to pricing and hedging a wide range of asset-backed, government, and corporate-securities. The main mathematical tools and techniques are:
+
+for derivatives, Itô's stochastic calculus, simulation, and partial differential equations; see aside discussion re Black-Scholes and the various numeric techniques applied
+for risk management, value at risk, stress testing, "sensitivities" analysis (applying the "greeks"), and xVA
+in both of these areas, and particularly for portfolio problems, quants employ sophisticated optimization techniques
+Mathematically, these separate into two analytic branches: derivatives pricing uses risk-neutral probability (or arbitrage-pricing probability), denoted by "Q"; while risk and portfolio management generally use actual (or actuarial or physical) probability, denoted by "P".
+
+The subject has a close relationship with financial economics, which, as above, is concerned with much of the underlying theory that is involved in financial mathematics: generally, financial mathematics will derive and extend the mathematical models suggested. Computational finance is the branch of (applied) computer science that deals with problems of practical interest in finance, and especially  emphasizes the numerical methods applied here.
+
+Experimental finance
+Main article: Experimental finance
+Experimental finance  aims to establish different market settings and environments to experimentally observe and provide a lens through which science can analyze agents' behavior and the resulting characteristics of trading flows, information diffusion, and aggregation, price setting mechanisms, and returns processes. Researchers in experimental finance can study to what extent existing financial economics theory makes valid predictions and therefore prove them, as well as attempt to discover new principles on which such theory can be extended and be applied to future financial decisions. Research may proceed by conducting trading simulations or by establishing and studying the behavior of people in artificial, competitive, market-like settings.
+
+Behavioral finance
+Main article: Behavioral economics
+Behavioral finance studies how the psychology of investors or managers affects financial decisions and markets  and is relevant when making a decision that can impact either negatively or positively on one of their areas. Behavioral finance has grown over the last few decades to become an integral aspect of finance.
+
+Behavioral finance includes such topics as:
+
+Empirical studies that demonstrate significant deviations from classical theories;
+Models of how psychology affects and impacts trading and prices;
+Forecasting based on these methods;
+Studies of experimental asset markets and the use of models to forecast experiments.
+A strand of behavioral finance has been dubbed quantitative behavioral finance, which uses mathematical and statistical methodology to understand behavioral biases in conjunction with valuation.
+
+History of finance
+	
+This section needs expansion. You can help by adding to it. (October 2021)
+Further information: History of money, History of banking, History of investment, Financial centre § History, Corporate finance § History, Quantitative analysis (finance) § History, Financial crisis § History, and Global financial system § History of international financial architecture
+See also: Category:History of finance
+The origin of finance can be traced to the start of civilization. The earliest historical evidence of finance is dated to around 3000 BC. Banking originated in the Babylonian empire, where temples and palaces were used as safe places for the storage of valuables. Initially, the only valuable that could be deposited was grain, but cattle and precious materials were eventually included. During the same period, the Sumerian city of Uruk in Mesopotamia supported trade by lending as well as the use of interest. In Sumerian, “interest” was mas, which translates to "calf". In Greece and Egypt, the

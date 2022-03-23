@@ -1,0 +1,33 @@
+ lender receives, and the financial intermediary earns the difference for arranging the loan. A bank aggregates the activities of many borrowers and lenders. A bank accepts deposits from lenders, on which it pays interest. The bank then lends these deposits to borrowers. Banks allow borrowers and lenders, of different sizes, to coordinate their activity.
+
+Investing typically entails the purchase of stock, either individual securities, or via a mutual fund for example. Stocks are usually sold by corporations to investors so as to raise required capital in the form of "equity financing", as distinct from the debt financing described above. The financial intermediaries here are the investment banks. The investment banks find the initial investors and facilitate the listing of the securities, typically shares and bonds. Additionally, they facilitate the securities exchanges, which allow their trade thereafter, as well as the various service providers which manage the performance or risk of these investments. These latter include mutual funds, pension funds, wealth managers, and stock brokers, typically servicing retail investors (private individuals).
+
+Inter-institutional trade and investment, and fund-management at this scale, is referred to as "wholesale finance". Institutions here extend the products offered, with related trading, to include bespoke options, swaps, and structured products, as well as specialized financing; this "financial engineering" is inherently mathematical, and these institutions are then the major employers of "quants" (see below). In these institutions, risk management, regulatory capital, and compliance play major roles.
+
+Areas of finance
+As above, finance comprises, broadly, the three areas of personal finance, corporate finance, and public finance. Although they are numerous, other areas and disciplines, such as investments, risk management, quantitative finance, and development finance typically overlap these; likewise, specific arrangements such as public–private partnerships.
+
+Personal finance
+
+Wealth management consultation - here the financial advisor counsels the client on an appropriate investment strategy
+Main article: Personal finance
+Personal finance is defined as "the mindful planning of monetary spending and saving, while also considering the possibility of future risk". Personal finance may involve paying for education, financing durable goods such as real estate and cars, buying insurance, investing, and saving for retirement. Personal finance may also involve paying for a loan or other debt obligations. The main areas of personal finance are considered to be income, spending, saving, investing, and protection. The following steps, as outlined by the Financial Planning Standards Board, suggest that an individual will understand a potentially secure personal finance plan after:
+
+Purchasing insurance to ensure protection against unforeseen personal events;
+Understanding the effects of tax policies, subsidies, or penalties on the management of personal finances;
+Understanding the effects of credit on individual financial standing;
+Developing a savings plan or financing for large purchases (auto, education, home);
+Planning a secure financial future in an environment of economic instability;
+Pursuing a checking and/or a savings account;
+Preparing for retirement or other long term expenses.
+Corporate finance
+
+Founded in 1602, the Dutch East India Company (VOC), started off as a spice trader, "going public" in the same year, with the world's first IPO.
+Main articles: Corporate finance and Financial management
+Further information: Strategic financial management
+Corporate finance deals with the actions that managers take to increase the value of the firm to the shareholders, the sources of funding and the capital structure of corporations, and the tools and analysis used to allocate financial resources. While corporate finance is in principle different from managerial finance, which studies the financial management of all firms rather than corporations alone, the concepts are applicable to the financial problems of all firms, and this area is then often referred to as “business finance”.
+
+Typically "corporate finance" relates to the long term objective of maximizing the value of the entity's assets, its stock, and its return to shareholders, while also balancing risk and profitability. This entails  three primary areas:
+
+Capital budgeting: selecting which projects to invest in - here, accurately determining value is crucial, as judgements about asset values can be "make or break" 
+Dividend policy: the use of "excess" funds - are these to 

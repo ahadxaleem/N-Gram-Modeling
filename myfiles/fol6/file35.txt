@@ -1,0 +1,8 @@
+ication, orthography, grammar, syntax, and format. David Gibson and Barbara Mendleson (1984) explored the dynamics of redundancy and showed the linking of information and probability theories to semantics.
+
+Messages sharing a common grammar, syntax, and orthography are likely to be more redundant and thus help ensure the receiver shares much of the sender’s intended meaning. When redundancy is minimal, additional communication barriers can arise. Redundancy can be overused, of course, particularly in terms of exemplification or repetition.
+
+NONVERBAL COMMUNICATION
+Another source of information in communication exchanges is nonverbal communication. Although less precise than formal language, it is a very significant source of information in most interpersonal exchanges and often contains more information than in the spoken element of the message. A message’s nonverbal elements include all the sources of information apart from the words themselves. Gestures, posture, tone, pitch, message duration, and intensity all add nuances to the message, and complexity. This latter is particularly the case in those cases where the nonverbals contradict the other signals. Social psychologists, notably Ekman and Friesen (1974), have closely studied nonverbal communication not just as a source of information in a message, but as a source of nonverbal leakage of deception as well.
+
+The sender controls many nonverbal elements, of course, but other elements over which the sender has little or no control can be sources o

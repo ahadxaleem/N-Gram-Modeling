@@ -1,0 +1,34 @@
+s are distorted.
+A woman takes samples of water from a river.
+Environmental scientist sampling water
+The term "market failure" encompasses several problems which may undermine standard economic assumptions. Although economists categorize market failures differently, the following categories emerge in the main texts.
+
+Authors critical of economics tend to view the talk of "market failiures", as a term which is used when economic theories don't correspond with reality, making these theories and paradigms in which these terms are used unfalsifiable.[clarification needed]
+
+Information asymmetries and incomplete markets may result in economic inefficiency but also a possibility of improving efficiency through market, legal, and regulatory remedies, as discussed above.
+
+Natural monopoly, or the overlapping concepts of "practical" and "technical" monopoly, is an extreme case of failure of competition as a restraint on producers. Extreme economies of scale are one possible cause.
+
+Public goods are goods which are under-supplied in a typical market. The defining features are that people can consume public goods without having to pay for them and that more than one person can consume the good at the same time.
+
+Externalities occur where there are significant social costs or benefits from production or consumption that are not reflected in market prices. For example, air pollution may generate a negative externality, and education may generate a positive externality (less crime, etc.). Governments often tax and otherwise restrict the sale of goods that have negative externalities and subsidize or otherwise promote the purchase of goods that have positive externalities in an effort to correct the price distortions caused by these externalities. Elementary demand-and-supply theory predicts equilibrium but not the speed of adjustment for changes of equilibrium due to a shift in demand or supply.
+
+In many areas, some form of price stickiness is postulated to account for quantities, rather than prices, adjusting in the short run to changes on the demand side or the supply side. This includes standard analysis of the business cycle in macroeconomics. Analysis often revolves around causes of such price stickiness and their implications for reaching a hypothesized long-run equilibrium. Examples of such price stickiness in particular markets include wage rates in labour markets and posted prices in markets deviating from perfect competition.
+
+Some specialized fields of economics deal in market failure more than others. The economics of the public sector is one example. Much environmental economics concerns externalities or "public bads".
+
+Policy options include regulations that reflect cost-benefit analysis or market solutions that change incentives, such as emission fees or redefinition of property rights.
+
+Welfare
+Main article: Welfare economics
+Welfare economics uses microeconomics techniques to evaluate well-being from allocation of productive factors as to desirability and economic efficiency within an economy, often relative to competitive general equilibrium. It analyzes social welfare, however measured, in terms of economic activities of the individuals that compose the theoretical society considered. Accordingly, individuals, with associated economic activities, are the basic units for aggregating to social welfare, whether of a group, a community, or a society, and there is no "social welfare" apart from the "welfare" associated with its individual units.
+
+Macroeconomics
+Main article: Macroeconomics
+
+The circulation of money in an economy in a macroeconomic model. In this model the use of natural resources and the generation of waste (like greenhouse gases) is not included.
+Macroeconomics examines the economy as a whole to explain broad aggregates and their interactions "top down", that is, using a simplified form of general-equilibrium theory. Such aggregates include national income and output, the unemployment rate, and price inflation and subaggregates like total consumption and investment spending and their components. It also studies effects of monetary policy and fiscal policy.
+
+Since at least the 1960s, macroeconomics has been characterized by further integration as to micro-based modelling of sectors, including rationality of players, efficient use of market information, and imperfect competition. This has addressed a long-standing concern about inconsistent developments of the same subject.
+
+Macroeconomic analysis also considers factors affecting the long-term level and growth of national income. Such factors include capital accumulation, technological change and labour

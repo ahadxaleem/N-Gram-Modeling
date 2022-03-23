@@ -1,0 +1,7 @@
+ve communication, such as actual deafness or blindness preventing messages from being received as they were intended.
+Semantic noise. Different interpretations of the meanings of certain words. For example, the word "weed" can be interpreted as an undesirable plant in a yard, or as a euphemism for marijuana.
+Syntactical noise. Mistakes in grammar can disrupt communication, such as abrupt changes in verb tense during a sentence.
+Organizational noise. Poorly structured communication can prevent the receiver from accurate interpretation. For example, unclear and badly stated directions can make the receiver even more lost.
+Cultural noise. Stereotypical assumptions can cause misunderstandings, such as unintentionally offending a non-Christian person by wishing them a "Merry Christmas".
+Psychological noise. Certain attitudes can also make communication difficult. For instance, great anger or sadness may cause someone to lose focus on the present moment. Disorders such as autism may also severely hamper effective communication.
+To face communication noise, redundancy and acknowledgement must often be used. Acknowledgements are messages from the addressee informing the originator that his/her communication has been received and is understood. Message repetition and feedback about message received are necessary in the presence of noise to reduce the probability of misunderstanding. The act of disambiguation regards the attempt of reducing noise and wrong interpretations, when the semantic value or meaning of

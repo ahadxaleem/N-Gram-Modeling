@@ -1,0 +1,30 @@
+n their own reference rate known as the Islamic Interbank Benchmark Rate which "uses expected profits from short-term money and a forecasted return on the assets of the bank receiving funds".
+
+Bai' muajjal
+In Islamic jurisprudence (fiqh), Bai-muajjal, also called bai'-bithaman ajil, or BBA, is a credit sale or deferred payment sale, i.e. the sale of goods on a deferred payment basis. In Islamic finance, the bai' muajjal product also involves the price markup of a murabahah contract, and a murabahah product involves a bai-muajjal deferred payment. Thus the terms and are often used interchangeably, (according to Hans Visser), or "in practice ... used together" (according to Faleel Jamaldeen).
+
+However, according to another (Bangladeshi) source, Bai' muajjal differs from Murabahah in that the client, not the bank, is in possession of and bear the risk for the goods being purchased before completion of payment. And according to a Malaysian source, the main difference between BBA (short for bai'-bithaman ajil) and murabaha – at least as practiced in Malaysia – is that murabaha is used for medium and short term financing and BBA for longer term.
+
+Bai' muajjal as a finance product was introduced in 1983 by Bank Islam Malaysia Berhad.
+
+Bai' al 'inah (sale and buy-back agreement)
+Bai' al inah (literally, "double sale" or "a loan in the form of a sale"), is a financing arrangement where the financier/bank buys some asset from the customer on spot basis, with the financier's payment constituting the "loan". The asset is then sold back to the customer who pays in installments over time, essentially "repaying the loan". Since loaning of cash for profit is forbidden in Islamic Finance, some scholars do not believe Bai' al 'inah is permissible in Islam. According to the Institute of Islamic Banking and Insurance, it "serves as a ruse for lending on interest", but Bai' al inah is practiced in Malaysia and similar jurisdictions.
+
+Musawamah
+A Musawamah (literally "bargaining") contract is used if the exact cost of the item(s) sold to the bank/financier either cannot be or is not ascertained. Musawamah differs from Murabahah in that the "seller is not under the obligation to reveal his cost or purchase price". Musawamah is the "most common" type of "trading negotiation" seen in Islamic commerce.
+
+Istisna and Bai Salam
+Istisna (also Bia Istisna or Bai' Al-Istisna) and Bia Salam (also Bai us salam or just salam) are "forward contracts" – customized contracts where immediate payment is made for goods in the future – goods not yet manufactured, built, or harvested. Istisna contracts (literally, a request to manufacture something) are limited by Islamic fiqh to use for manufacturing, processing, or construction, while salam "can be effected on anything" — except gold, silver, or currencies based on these metals. On the other hand, a salam contract cannot be cancelled unilaterally, the full price must be paid in advance, and the time of delivery must be specified – restrictions that do not apply to istisna.
+
+In a istisna contract, the financer/bank can makes payments in stages, to finance raw materials (in the case of manufacturing), or construction materials (in the case of the construction project). When the product/structure is finished and sold, the bank can be repaid.
+
+Bia salam and istisna contracts should be as detailed as possible to avoid uncertainty. Salam contracts predate istisna and were designed to fulfill the needs of small farmers and traders. Salam is a preferred financing structure and carries higher order of Shariah compliance than contracts such as Murabahah or Musawamah.
+
+Examples of use of istisna in the Islamic finance world include use by the Kuwait Finance House and the Barzan gas project in Qatar. Examples of banks using Salam are ADCB Islamic Banking and Dubai Islamic Bank.
+
+Ijarah
+Ijarah, (literally "to give something on rent") is a leasing or renting contract. In traditional Islamic jurisprudence (fiqh), it means a contract for the hiring of persons, services, or the "usufruct" of a property, generally for a fixed period and price.
+
+In Islamic finance, al Ijarah usually refers to a leasing contract that also includes a sales contract. Property such as plant, office automation, or motor vehicle, is leased to a client for stream of rental and purchase payments, so that the end of the leasing period coincides with completion of purchase payments and transfer of ownership to the lessee, and otherwise follows Islamic regulations. There are several types of ijarah in Islamic finance ("operating ijarah" or ijarah tashgheeliah, are leases without sales and finance):
+
+Ijara

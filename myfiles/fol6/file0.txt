@@ -1,0 +1,10 @@
+Communication (from Latin communicare, meaning "to share" or "to be in relation with") is "an apparent answer to the painful divisions between self and other, private and public, and inner thought and outer world." As this definition indicates, communication is difficult to define in a consistent manner, because in common use it refers to a very wide range of different behaviors involved in the propagation of information. John Peters argues the difficulty of defining communication emerges from the fact that communication is both a universal phenomenon (because everyone communicates) and a specific discipline of institutional academic study.
+
+One definitional strategy involves limiting what can be included in the category of communication (for example, requiring a "conscious intent" to persuade). By this logic, one possible definition of communication is the act of developing meaning among entities or groups through the use of sufficiently mutually understood signs, symbols, and semiotic conventions.
+
+In Claude Shannon's and Warren Weaver's influential model, human communication was imagined to function like a telephone or telegraph. Accordingly, they conceptualized communication as involving discrete steps:
+
+The formation of communicative motivation or reason.
+Message composition (further internal or technical elaboration on what exactly to express).
+Message encoding (for example, into digital data, written text, speech, pictures, gestures and so on).
+Transmission of the encoded message as a sequence

@@ -1,0 +1,11 @@
+erences in behavior. Traditionally the research has involved twin studies and adoption studies, two designs where genetic and environmental influences can be partially un-confounded. More recently, gene-focused research has contributed to understanding genetic contributions to the development of psychological traits.
+
+The availability of microarray molecular genetic or genome sequencing technologies allows researchers to measure participant DNA variation directly, and test whether individual genetic variants within genes are associated with psychological traits and psychopathology through methods including genome-wide association studies. One goal of such research is similar to that in positional cloning and its success in Huntington's: once a causal gene is discovered biological research can be conducted to understand how that gene influences the phenotype. One major result of genetic association studies is the general finding that psychological traits and psychopathology, as well as complex medical diseases, are highly polygenic, where a large number (on the order of hundreds to thousands) of genetic variants, each of small effect, contribute to individual differences in the behavioral trait or propensity to the disorder. Active research continues to work toward understanding the genetic and environmental bases of behavior and their interaction.
+
+Applications
+Further information: Outline of psychology, List of psychology disciplines, Applied psychology, and Subfields of psychology
+Psychology encompasses many subfields and includes different approaches to the study of mental processes and behavior.
+
+Psychological testing
+See also: Psychometrics and social statistics
+Psychological testing has ancient origins, dating as far back as 2200 BC, in the examinations for the Chinese civil service. Written exams began during the Han dynasty (202 BC – AD 200). By 1370, the Chinese system required a stratified series of tests, involving essay writing and knowledge 

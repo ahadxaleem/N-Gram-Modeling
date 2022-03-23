@@ -1,0 +1,23 @@
+ risk and then developing and implementing strategies to manage that risk. Financial risk management  is the practice of protecting corporate value by using financial instruments to manage exposure to risk, here called "hedging"; the focus is particularly on credit and market risk, and in banks, through regulatory capital, includes operational risk.
+
+Credit risk is risk of default on a debt that may arise from a borrower failing to make required payments;
+Market risk relates to losses arising from movements in market variables such as prices and exchange rates;
+Operational risk relates to failures in internal processes, people, and systems, or to external events.
+Financial risk management is related to corporate finance in two ways. Firstly, firm exposure to market risk is a direct result of previous capital investments and funding decisions; while credit risk arises from the business' credit policy and is often addressed through credit insurance. Secondly, both disciplines share the goal of enhancing or at least preserving, the firm's economic value; here,  businesses devote much time and effort to forecasting and performance monitoring generally, and specifically re risk, understanding their operating leverage and break even dynamics. See also "ALM" and treasury management. (Enterprise risk management, the domain of strategic management, addresses risks to the firm's overall objectives.)
+
+For banks and other wholesale institutions, risk management focuses on managing, and as necessary hedging, the various positions held by the institution —both trading positions and long term exposures — and on calculating and monitoring the resultant regulatory- and economic capital under Basel IV. The calculations here are mathematically sophisticated, and within the domain of quantitative finance as below. Credit risk is inherent in the business of banking, but additionally, these institutions are exposed to counterparty credit risk.
+
+Investment managers will apply various risk management techniques to their portfolios: these may relate to the portfolio as a whole or to individual stocks; bond portfolios are typically managed via cash flow matching or immunization. Re derivative portfolios (and positions), "the Greeks" is a vital risk management tool - it measures sensitivity to a small change in a given underlying parameter so that the portfolio can be rebalanced accordingly by including additional derivatives with offsetting characteristics.
+
+Quantitative finance
+Main article: Quantitative analysis (finance)
+Quantitative finance - also referred to as "mathematical finance" - includes those finance activities where a sophisticated mathematical model is required, and thus overlaps several of the above. As a specialized practice area, quantitative finance comprises primarily three sub-disciplines; the underlying theory and techniques are discussed in the next section:
+
+Quantitative finance is often synonymous with financial engineering. This area generally underpins a bank's customer-driven derivatives business — delivering bespoke OTC-contracts and "exotics", and designing the various structured products mentioned — and encompasses modeling and programming in support of the initial trade, and its subsequent hedging and management.
+Quantitative finance also significantly overlaps financial risk management in banking, as mentioned, both as regards this hedging, and as regards compliance with regulations and the Basel capital / liquidity requirements.
+"Quants" are also responsible for building and deploying the investment strategies at the quantitative funds mentioned; they are also involved in quantitative investing more generally, in areas such as trading strategy formulation, and in automated trading, high-frequency trading, algorithmic trading, and program trading.
+Financial theory
+{\displaystyle \sum _{t=1}^{n}{\frac {FCFF_{t}}{(1+WACC_{t})^{t}}}+{\frac {\left[{\frac {FCFF_{n+1}}{(WACC_{n+1}-g_{n+1})}}\right]}{(1+WACC_{n})^{n}}}}{\displaystyle \sum _{t=1}^{n}{\frac {FCFF_{t}}{(1+WACC_{t})^{t}}}+{\frac {\left[{\frac {FCFF_{n+1}}{(WACC_{n+1}-g_{n+1})}}\right]}{(1+WACC_{n})^{n}}}}
+DCF valuation formula widely applied in business and finance, since articulated in 1938. Here, to get the value of the firm, its forecasted free cash flows are discounted to the present using the weighted average cost of capital for the discount factor. For share valuation investors use the related dividend discount model.
+
+Financial theory is studied and developed within the disciplines of management, (financial) economics, accountancy and applied mathematics. Abstractly, finance is concerned with the in

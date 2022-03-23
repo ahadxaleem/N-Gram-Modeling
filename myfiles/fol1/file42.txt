@@ -1,0 +1,11 @@
+ltage changes in different parts of the brain. Hans Berger, the first researcher to use EEG on an unopened skull, quickly found that brains exhibit signature "brain waves": electric oscillations which correspond to different states of consciousness. Researchers subsequently refined statistical methods for synthesizing the electrode data, and identified unique brain wave patterns such as the delta wave observed during non-REM sleep.
+
+Newer functional neuroimaging techniques include functional magnetic resonance imaging and positron emission tomography, both of which track the flow of blood through the brain. These technologies provide more localized information about activity in the brain and create representations of the brain with widespread appeal. They also provide insight which avoids the classic problems of subjective self-reporting. It remains challenging to draw hard conclusions about where in the brain specific thoughts originate—or even how usefully such localization corresponds with reality. However, neuroimaging has delivered unmistakable results showing the existence of correlations between mind and brain. Some of these draw on a systemic neural network model rather than a localized function model.
+
+Interventions such as transcranial magnetic stimulation and drugs also provide information about brain–mind interactions. Psychopharmacology is the study of drug-induced mental effects.
+
+
+Artificial neural network with two layers, an interconnected group of nodes, akin to the vast network of neurons in the human brain.
+Computer simulation
+See also: Computational cognition, Graph theory, and Network theory
+Computational modeling is a tool used in mathematical psychology and cognitive psychology to simulate behavior. This method has several advantages. Since modern computers process information quickly, simulations can be run in a short time, allowing for high statistical power. Modeling also allows psychologists to visualize hypotheses about the fu

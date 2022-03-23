@@ -1,0 +1,28 @@
+ relationship between unemployment and economic growth. The original version of Okun's law states that a 3% increase in output would lead to a 1% decrease in unemployment.
+
+Inflation and monetary policy
+Main articles: Inflation and Monetary policy
+See also: Money, Quantity theory of money, and History of money
+Money is a means of final payment for goods in most price system economies, and is the unit of account in which prices are typically stated. Money has general acceptability, relative consistency in value, divisibility, durability, portability, elasticity in supply, and longevity with mass public confidence. It includes currency held by the nonbank public and checkable deposits. It has been described as a social convention, like language, useful to one largely because it is useful to others. In the words of Francis Amasa Walker, a well-known 19th-century economist, "Money is what money does" ("Money is that money does" in the original).
+
+As a medium of exchange, money facilitates trade. It is essentially a measure of value and more importantly, a store of value being a basis for credit creation. Its economic function can be contrasted with barter (non-monetary exchange). Given a diverse array of produced goods and specialized producers, barter may entail a hard-to-locate double coincidence of wants as to what is exchanged, say apples and a book. Money can reduce the transaction cost of exchange because of its ready acceptability. Then it is less costly for the seller to accept money in exchange, rather than what the buyer produces.
+
+At the level of an economy, theory and evidence are consistent with a positive relationship running from the total money supply to the nominal value of total output and to the general price level. For this reason, management of the money supply is a key aspect of monetary policy.
+
+Fiscal policy
+Main articles: Fiscal policy, Government spending, and Taxation
+Governments implement fiscal policy to influence macroeconomic conditions by adjusting spending and taxation policies to alter aggregate demand. When aggregate demand falls below the potential output of the economy, there is an output gap where some productive capacity is left unemployed. Governments increase spending and cut taxes to boost aggregate demand. Resources that have been idled can be used by the government.
+
+For example, unemployed home builders can be hired to expand highways. Tax cuts allow consumers to increase their spending, which boosts aggregate demand. Both tax cuts and spending have multiplier effects where the initial increase in demand from the policy percolates through the economy and generates additional economic activity.
+
+The effects of fiscal policy can be limited by crowding out. When there is no output gap, the economy is producing at full capacity and there are no excess productive resources. If the government increases spending in this situation, the government uses resources that otherwise would have been used by the private sector, so there is no increase in overall output. Some economists think that crowding out is always an issue while others do not think it is a major issue when output is depressed.
+
+Sceptics of fiscal policy also make the argument of Ricardian equivalence. They argue that an increase in debt will have to be paid for with future tax increases, which will cause people to reduce their consumption and save money to pay for the future tax increase. Under Ricardian equivalence, any boost in demand from tax cuts will be offset by the increased saving intended to pay for future higher taxes.
+
+Public economics
+Main article: Public economics
+Public economics is the field of economics that deals with economic activities of a public sector, usually government. The subject addresses such matters as tax incidence (who really pays a particular tax), cost-benefit analysis of government programmes, effects on economic efficiency and income distribution of different kinds of spending and taxes, and fiscal politics. The latter, an aspect of public choice theory, models public-sector behaviour analogously to microeconomics, involving interactions of self-interested voters, politicians, and bureaucrats.
+
+Much of economics is positive, seeking to describe and predict economic phenomena. Normative economics seeks to identify what economies ought to be like.
+
+Welfare economics is a normative branch of economics that uses microeconomic techniques to simultaneously determine the allocative efficiency within an economy and the income distribution associated with it. It attempts to measure social welfare by examining the economic activities of the individu
